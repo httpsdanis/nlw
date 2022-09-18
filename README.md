@@ -1,6 +1,6 @@
-# NLW eSports  
+# NLW eSports 🎮
 
-![preview](./.github.preview.png)
+![preview](./.github/preview.png)
 
 > Trilha Explorer
 
@@ -15,7 +15,9 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contatos 🌞
 
-danilosilvasantos777@gmail.com
+Email: danilosilvasantos777@gmail.com
 
-Instagram: @httpsdanis
+Instagram: [📸Link](https://www.instagram.com/httpsdanis/)
+
+LinkedIn: [🔗 Link](https://www.linkedin.com/in/danilo-silva-santos-8a9b8521b/)
 
