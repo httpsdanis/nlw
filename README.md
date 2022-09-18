@@ -15,7 +15,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contatos 🌞
 
-Email: [✉ Link](danilosilvasantos777@gmail.com)
+Email: ✉ danilosilvasantos777@gmail.com
 
 Instagram: [📸Link](https://www.instagram.com/httpsdanis/)
 
